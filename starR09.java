@@ -6,7 +6,7 @@ public class starR09 {
         System.out.print("n = ");
         int n = sc.nextInt();
 
-        for (int i = 2; i <= n; i+= 2) {
+        for (int i = 1; i <= n; i+= 2) {
             System.out.print(i + " ");
         }
         System.out.println();
