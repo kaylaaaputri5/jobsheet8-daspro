@@ -6,7 +6,7 @@ public class trianglE09 {
         System.out.print("Masukkan nilai n = "); 
         int n = sc.nextInt(); 
 
-        int i = 1; 
+        int i = n; 
         while (i >= 1) { 
             int j = 0; 
             while (j < i) { 
